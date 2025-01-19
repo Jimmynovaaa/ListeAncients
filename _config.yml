@@ -68,7 +68,7 @@ mods:
   author: true
 
 # Build settings
-theme: architect
+theme: pages-themes/minimal@v0.2.0
 markdown: kramdown
 sass:
   style: compressed
