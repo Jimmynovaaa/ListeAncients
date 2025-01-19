@@ -68,12 +68,13 @@ mods:
   author: true
 
 # Build settings
-theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 markdown: kramdown
 sass:
   style: compressed
 
 permalink: pretty
-
+plugins:
+- jekyll-remote-theme
 exclude:
   - build-scripts
