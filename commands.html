@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Commands
+title: Commandes
 permalink: /commands
-store: true
 ---
+
+<script src="{{- 'assets/js/core.js' | relative_url -}}"></script>
+<script src="{{- 'assets/js/filter.js' | relative_url -}}"></script>
+<link rel="stylesheet" href="{{- 'assets/css/core.css' | relative_url -}} "/>
+<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
 
 {%- assign showCommands = site.data.commands.size -%}
 
@@ -30,7 +34,7 @@ store: true
             <thead>
                 <tr>
                     <th style="width: 35%">{{- site.data.language.command_name_header -}}</th>
-
+                    
                     {%- if site.commands.userlevel -%}
                         <th style="width: 18%">{{- site.data.language.user_level_header -}}</th>
                     {%- endif -%}
@@ -67,7 +71,7 @@ store: true
                         {%- if site.commands.userlevel -%}
                             <td>{{- command.userLevel -}}</td>
                         {%- endif -%}
-
+                        
                         <td>
                             {{- command.description -}}
 
