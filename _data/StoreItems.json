@@ -28,7 +28,7 @@
       "abr": "moût",
       "category": "Produits manufacturés",
       "defname": "Wort",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "ambroisie",
@@ -526,7 +526,7 @@
       "abr": "glumelumineuse",
       "category": "Spécial",
       "defname": "GlowPod",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "batterie",
@@ -538,97 +538,97 @@
       "abr": "établidesculpture",
       "category": "Production",
       "defname": "TableSculpting",
-      "price": 425
+      "price": -10
     },
     {
       "abr": "établideboucher",
       "category": "Production",
       "defname": "TableButcher",
-      "price": 302
+      "price": -10
     },
     {
       "abr": "établidetissagemanuel",
       "category": "Production",
       "defname": "HandTailoringBench",
-      "price": 262
+      "price": -10
     },
     {
       "abr": "établidetissageélectrique",
       "category": "Production",
       "defname": "ElectricTailoringBench",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "établideforgeronàcombustible",
       "category": "Production",
       "defname": "FueledSmithy",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "établideforgeronélectrique",
       "category": "Production",
       "defname": "ElectricSmithy",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "établid'assemblage",
       "category": "Production",
       "defname": "TableMachining",
-      "price": 758
+      "price": -10
     },
     {
       "abr": "cuisinièreélectrique",
       "category": "Production",
       "defname": "ElectricStove",
-      "price": 375
+      "price": -10
     },
     {
       "abr": "cuisinièreàbois",
       "category": "Production",
       "defname": "FueledStove",
-      "price": 265
+      "price": -10
     },
     {
       "abr": "établidetailleurdepierre",
       "category": "Production",
       "defname": "TableStonecutter",
-      "price": 358
+      "price": -10
     },
     {
       "abr": "établidebrassage",
       "category": "Production",
       "defname": "Brewery",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "laboratoirechimique",
       "category": "Production",
       "defname": "DrugLab",
-      "price": 742
+      "price": -10
     },
     {
       "abr": "fonderieélectrique",
       "category": "Production",
       "defname": "ElectricSmelter",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "postebasiquederecherche",
       "category": "Production",
       "defname": "SimpleResearchBench",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "barildefermentation",
       "category": "Production",
       "defname": "FermentingBarrel",
-      "price": 95
+      "price": -10
     },
     {
       "abr": "forageenprofondeur",
       "category": "Production",
       "defname": "DeepDrill",
-      "price": 483
+      "price": -10
     },
     {
       "abr": "piègeàpointes",
@@ -694,37 +694,37 @@
       "abr": "émanateurpsychique",
       "category": "Spécial",
       "defname": "PsychicEmanator",
-      "price": 2167
+      "price": -10
     },
     {
       "abr": "pilevanométrique",
       "category": "Spécial",
       "defname": "VanometricPowerCell",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "carbu-réacteurinfini",
       "category": "Spécial",
       "defname": "InfiniteChemreactor",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "radiateur",
       "category": "Température",
       "defname": "Heater",
-      "price": 218
+      "price": -10
     },
     {
       "abr": "artefactd'impulsionanimale",
       "category": "Artéfacts",
       "defname": "PsychicAnimalPulser",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "artefactd'impulsioncalmante",
       "category": "Artéfacts",
       "defname": "PsychicSoothePulser",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "noyauiadepersonnalité",
@@ -952,25 +952,25 @@
       "abr": "composant",
       "category": "Produits manufacturés",
       "defname": "ComponentIndustrial",
-      "price": 53
+      "price": -10
     },
     {
       "abr": "composantavancé",
       "category": "Produits manufacturés",
       "defname": "ComponentSpacer",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "neutroamine",
       "category": "Produits manufacturés",
       "defname": "Neutroamine",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "chemfuel",
       "category": "Produits manufacturés",
       "defname": "Chemfuel",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "canonrenforcé",
@@ -2302,13 +2302,13 @@
       "abr": "celluledepuissanceinstable",
       "category": "Spécial",
       "defname": "UnstablePowerCell",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "modulemécanoïde",
       "category": "Spécial",
       "defname": "Gloomlight",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "balised'atterrissage",
@@ -3052,7 +3052,7 @@
       "abr": "banquedegènes",
       "category": "Production",
       "defname": "GeneBank",
-      "price": 242
+      "price": -10
     },
     {
       "abr": "pompeàpollution",
@@ -3082,7 +3082,7 @@
       "abr": "encodeurdesous-noyau",
       "category": "Production",
       "defname": "SubcoreEncoder",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "nourriturepourbébés",
@@ -3106,37 +3106,37 @@
       "abr": "sous-noyaudebase",
       "category": "Produits manufacturés",
       "defname": "SubcoreBasic",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "sous-noyaustandard",
       "category": "Produits manufacturés",
       "defname": "SubcoreRegular",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "sous-noyausupérieur",
       "category": "Produits manufacturés",
       "defname": "SubcoreHigh",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "pucedesignal",
       "category": "Produits manufacturés",
       "defname": "SignalChip",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "pucedefocalisation",
       "category": "Produits manufacturés",
       "defname": "PowerfocusChip",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "nanopucestructurante",
       "category": "Produits manufacturés",
       "defname": "NanostructuringChip",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "sérumdureposdelamort",
@@ -4012,13 +4012,13 @@
       "abr": "fueledgunsmithstation",
       "category": "Production",
       "defname": "MW_GunsmithStationFueled",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "gunsmithstation",
       "category": "Production",
       "defname": "MW_GunsmithStation",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "iguanaegg(unfert.)",
