@@ -1801,7 +1801,8 @@
           "+16.0C Température minimale de confort",
           "+26.0C Température maximale de confort",
           "+75 Quantité de cuir",
-          "+3 Valeur d'honneur"
+          "+3 Valeur d'honneur",
+          "+75% Wildness"
         ],
         "mod": "Unknown",
         "karmaType": null

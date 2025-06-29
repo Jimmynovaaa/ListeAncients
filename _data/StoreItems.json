@@ -28,7 +28,7 @@
       "abr": "moût",
       "category": "Produits manufacturés",
       "defname": "Wort",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "ambroisie",
@@ -238,187 +238,187 @@
       "abr": "urne",
       "category": "Meubles",
       "defname": "Urn",
-      "price": 70
+      "price": -10
     },
     {
       "abr": "petitesculpture",
       "category": "Art",
       "defname": "SculptureSmall",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "grandesculpture",
       "category": "Art",
       "defname": "SculptureLarge",
-      "price": -10
+      "price": 517
     },
     {
       "abr": "sculpturemonumentale",
       "category": "Art",
       "defname": "SculptureGrand",
-      "price": -10
+      "price": 1967
     },
     {
       "abr": "lit",
       "category": "Meubles",
       "defname": "Bed",
-      "price": 155
+      "price": -10
     },
     {
       "abr": "litdouble",
       "category": "Meubles",
       "defname": "DoubleBed",
-      "price": 292
+      "price": -10
     },
     {
       "abr": "litroyal",
       "category": "Meubles",
       "defname": "RoyalBed",
-      "price": 1467
+      "price": -10
     },
     {
       "abr": "litmédicalisé",
       "category": "Meubles",
       "defname": "HospitalBed",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "sacdecouchage",
       "category": "Meubles",
       "defname": "Bedroll",
-      "price": 137
+      "price": -10
     },
     {
       "abr": "sacdecouchagedouble",
       "category": "Meubles",
       "defname": "BedrollDouble",
-      "price": 290
+      "price": -10
     },
     {
       "abr": "boxpourpetitsanimaux",
       "category": "Meubles",
       "defname": "AnimalSleepingBox",
-      "price": 84
+      "price": -10
     },
     {
       "abr": "litpouranimaux",
       "category": "Meubles",
       "defname": "AnimalBed",
-      "price": 136
+      "price": -10
     },
     {
       "abr": "tabouret",
       "category": "Meubles",
       "defname": "Stool",
-      "price": 86
+      "price": -10
     },
     {
       "abr": "chaise",
       "category": "Meubles",
       "defname": "DiningChair",
-      "price": 198
+      "price": -10
     },
     {
       "abr": "fauteuil",
       "category": "Meubles",
       "defname": "Armchair",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "canapé",
       "category": "Meubles",
       "defname": "Couch",
-      "price": 783
+      "price": -10
     },
     {
       "abr": "tabledenuit",
       "category": "Meubles",
       "defname": "EndTable",
-      "price": 106
+      "price": -10
     },
     {
       "abr": "table(1x2)",
       "category": "Meubles",
       "defname": "Table1x2c",
-      "price": 98
+      "price": -10
     },
     {
       "abr": "table(2x2)",
       "category": "Meubles",
       "defname": "Table2x2c",
-      "price": 176
+      "price": -10
     },
     {
       "abr": "table(2x4)",
       "category": "Meubles",
       "defname": "Table2x4c",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "table(3x3)",
       "category": "Meubles",
       "defname": "Table3x3c",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "potdefleurs",
       "category": "Meubles",
       "defname": "PlantPot",
-      "price": 68
+      "price": -10
     },
     {
       "abr": "lampesurpied",
       "category": "Meubles",
       "defname": "StandingLamp",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "lampehorticole",
       "category": "Meubles",
       "defname": "SunLamp",
-      "price": 129
+      "price": -10
     },
     {
       "abr": "lampemurale",
       "category": "Meubles",
       "defname": "WallLamp",
-      "price": 49
+      "price": -10
     },
     {
       "abr": "lampadaire",
       "category": "Meubles",
       "defname": "FloodLight",
-      "price": 162
+      "price": -10
     },
     {
       "abr": "étagère",
       "category": "Meubles",
       "defname": "Shelf",
-      "price": 70
+      "price": -10
     },
     {
       "abr": "petiteétagère",
       "category": "Meubles",
       "defname": "ShelfSmall",
-      "price": 35
+      "price": -10
     },
     {
       "abr": "bibliothèque",
       "category": "Meubles",
       "defname": "Bookcase",
-      "price": 70
+      "price": -10
     },
     {
       "abr": "petitebibliothèque",
       "category": "Meubles",
       "defname": "BookcaseSmall",
-      "price": 35
+      "price": -10
     },
     {
       "abr": "commode",
       "category": "Meubles",
       "defname": "Dresser",
-      "price": 179
+      "price": -10
     },
     {
       "abr": "piquetdeferàcheval",
@@ -436,25 +436,25 @@
       "abr": "plateaudejeud'ur",
       "category": "Meubles",
       "defname": "GameOfUrBoard",
-      "price": 153
+      "price": -10
     },
     {
       "abr": "tabled'échecs",
       "category": "Meubles",
       "defname": "ChessTable",
-      "price": 281
+      "price": -10
     },
     {
       "abr": "tabledepoker",
       "category": "Meubles",
       "defname": "PokerTable",
-      "price": 400
+      "price": -10
     },
     {
       "abr": "tabledebillard",
       "category": "Meubles",
       "defname": "BilliardsTable",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "télévisioncathodique",
@@ -526,7 +526,7 @@
       "abr": "glumelumineuse",
       "category": "Spécial",
       "defname": "GlowPod",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "batterie",
@@ -538,193 +538,193 @@
       "abr": "établidesculpture",
       "category": "Production",
       "defname": "TableSculpting",
-      "price": -10
+      "price": 425
     },
     {
       "abr": "établideboucher",
       "category": "Production",
       "defname": "TableButcher",
-      "price": -10
+      "price": 302
     },
     {
       "abr": "établidetissagemanuel",
       "category": "Production",
       "defname": "HandTailoringBench",
-      "price": -10
+      "price": 262
     },
     {
       "abr": "établidetissageélectrique",
       "category": "Production",
       "defname": "ElectricTailoringBench",
-      "price": -10
+      "price": 533
     },
     {
       "abr": "établideforgeronàcombustible",
       "category": "Production",
       "defname": "FueledSmithy",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "établideforgeronélectrique",
       "category": "Production",
       "defname": "ElectricSmithy",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "établid'assemblage",
       "category": "Production",
       "defname": "TableMachining",
-      "price": -10
+      "price": 758
     },
     {
       "abr": "cuisinièreélectrique",
       "category": "Production",
       "defname": "ElectricStove",
-      "price": -10
+      "price": 375
     },
     {
       "abr": "cuisinièreàbois",
       "category": "Production",
       "defname": "FueledStove",
-      "price": -10
+      "price": 265
     },
     {
       "abr": "établidetailleurdepierre",
       "category": "Production",
       "defname": "TableStonecutter",
-      "price": -10
+      "price": 358
     },
     {
       "abr": "établidebrassage",
       "category": "Production",
       "defname": "Brewery",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "laboratoirechimique",
       "category": "Production",
       "defname": "DrugLab",
-      "price": -10
+      "price": 742
     },
     {
       "abr": "fonderieélectrique",
       "category": "Production",
       "defname": "ElectricSmelter",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "postebasiquederecherche",
       "category": "Production",
       "defname": "SimpleResearchBench",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "barildefermentation",
       "category": "Production",
       "defname": "FermentingBarrel",
-      "price": -10
+      "price": 95
     },
     {
       "abr": "forageenprofondeur",
       "category": "Production",
       "defname": "DeepDrill",
-      "price": -10
+      "price": 483
     },
     {
       "abr": "piègeàpointes",
       "category": "Sécurité",
       "defname": "TrapSpike",
-      "price": -10
+      "price": 169
     },
     {
       "abr": "piègeexplosifimprovisé",
       "category": "Sécurité",
       "defname": "TrapIED_HighExplosive",
-      "price": -10
+      "price": 192
     },
     {
       "abr": "piègeincendiaireimprovisé",
       "category": "Sécurité",
       "defname": "TrapIED_Incendiary",
-      "price": -10
+      "price": 192
     },
     {
       "abr": "piègeiemimprovisé",
       "category": "Sécurité",
       "defname": "TrapIED_EMP",
-      "price": -10
+      "price": 192
     },
     {
       "abr": "piègefumigène",
       "category": "Sécurité",
       "defname": "TrapIED_Smoke",
-      "price": -10
+      "price": 192
     },
     {
       "abr": "piègeanti-incendieimprovisé",
       "category": "Sécurité",
       "defname": "TrapIED_Firefoam",
-      "price": -10
+      "price": 192
     },
     {
       "abr": "piègeàantimatièreimprovisé",
       "category": "Sécurité",
       "defname": "TrapIED_AntigrainWarhead",
-      "price": -10
+      "price": 2008
     },
     {
       "abr": "mini-tourelle",
       "category": "Sécurité",
       "defname": "Turret_MiniTurret",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "mortier",
       "category": "Sécurité",
       "defname": "Turret_Mortar",
-      "price": -10
+      "price": 1058
     },
     {
       "abr": "tourelleàmousse",
       "category": "Sécurité",
       "defname": "Turret_FoamTurret",
-      "price": -10
+      "price": 1025
     },
     {
       "abr": "émanateurpsychique",
       "category": "Spécial",
       "defname": "PsychicEmanator",
-      "price": -10
+      "price": 2167
     },
     {
       "abr": "pilevanométrique",
       "category": "Spécial",
       "defname": "VanometricPowerCell",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "carbu-réacteurinfini",
       "category": "Spécial",
       "defname": "InfiniteChemreactor",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "radiateur",
       "category": "Température",
       "defname": "Heater",
-      "price": -10
+      "price": 218
     },
     {
       "abr": "artefactd'impulsionanimale",
       "category": "Artéfacts",
       "defname": "PsychicAnimalPulser",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "artefactd'impulsioncalmante",
       "category": "Artéfacts",
       "defname": "PsychicSoothePulser",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "noyauiadepersonnalité",
@@ -766,55 +766,55 @@
       "abr": "rationdesurvie",
       "category": "Plats",
       "defname": "MealSurvivalPack",
-      "price": 40
+      "price": -10
     },
     {
       "abr": "pâtenutritive",
       "category": "Plats",
       "defname": "MealNutrientPaste",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "platsimple",
       "category": "Plats",
       "defname": "MealSimple",
-      "price": 25
+      "price": -10
     },
     {
       "abr": "platraffiné",
       "category": "Plats",
       "defname": "MealFine",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "platvégétarienraffiné",
       "category": "Plats",
       "defname": "MealFine_Veg",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "platcarnivoreraffiné",
       "category": "Plats",
       "defname": "MealFine_Meat",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "platgastronomique",
       "category": "Plats",
       "defname": "MealLavish",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "platvégétariengastronomique",
       "category": "Plats",
       "defname": "MealLavish_Veg",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "platcarnivoregastronomique",
       "category": "Plats",
       "defname": "MealLavish_Meat",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "croquettes",
@@ -952,25 +952,25 @@
       "abr": "composant",
       "category": "Produits manufacturés",
       "defname": "ComponentIndustrial",
-      "price": -10
+      "price": 53
     },
     {
       "abr": "composantavancé",
       "category": "Produits manufacturés",
       "defname": "ComponentSpacer",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "neutroamine",
       "category": "Produits manufacturés",
       "defname": "Neutroamine",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "chemfuel",
       "category": "Produits manufacturés",
       "defname": "Chemfuel",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "canonrenforcé",
@@ -2272,43 +2272,43 @@
       "abr": "rideaux",
       "category": "Meubles",
       "defname": "Drape",
-      "price": 608
+      "price": -10
     },
     {
       "abr": "brasero",
       "category": "Meubles",
       "defname": "Brazier",
-      "price": 173
+      "price": -10
     },
     {
       "abr": "braserotamisé",
       "category": "Meubles",
       "defname": "DarklightBrazier",
-      "price": 173
+      "price": -10
     },
     {
       "abr": "trônedeméditation",
       "category": "Meubles",
       "defname": "Throne",
-      "price": 475
+      "price": -10
     },
     {
       "abr": "grandtrônedeméditation",
       "category": "Meubles",
       "defname": "GrandThrone",
-      "price": 2492
+      "price": -10
     },
     {
       "abr": "celluledepuissanceinstable",
       "category": "Spécial",
       "defname": "UnstablePowerCell",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "modulemécanoïde",
       "category": "Spécial",
       "defname": "Gloomlight",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "balised'atterrissage",
@@ -2593,28 +2593,10 @@
       "price": 3333
     },
     {
-      "abr": "ancienlit",
-      "category": "Divers",
-      "defname": "AncientBed",
-      "price": -10
-    },
-    {
-      "abr": "ancienscasiersdeconsigne",
-      "category": "Divers",
-      "defname": "AncientLockerBank",
-      "price": -10
-    },
-    {
-      "abr": "anciennetabled'opération",
-      "category": "Divers",
-      "defname": "AncientOperatingTable",
-      "price": -10
-    },
-    {
       "abr": "sculptureterrifiante",
       "category": "Art",
       "defname": "SculptureTerror",
-      "price": -10
+      "price": 517
     },
     {
       "abr": "accélérateurdesommeil",
@@ -2686,7 +2668,7 @@
       "abr": "coiffeuse",
       "category": "Meubles",
       "defname": "StylingStation",
-      "price": 375
+      "price": -10
     },
     {
       "abr": "cageàgibet",
@@ -2716,37 +2698,37 @@
       "abr": "banc",
       "category": "Meubles",
       "defname": "Pew",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "tapisdeprière",
       "category": "Meubles",
       "defname": "KneelSheet",
-      "price": 281
+      "price": -10
     },
     {
       "abr": "coussindeprière",
       "category": "Meubles",
       "defname": "KneelPillow",
-      "price": 98
+      "price": -10
     },
     {
       "abr": "potdebonsaï",
       "category": "Meubles",
       "defname": "PlantPot_Bonsai",
-      "price": 82
+      "price": -10
     },
     {
       "abr": "litdedalle",
       "category": "Meubles",
       "defname": "SlabBed",
-      "price": 102
+      "price": -10
     },
     {
       "abr": "litdoublededalle",
       "category": "Meubles",
       "defname": "SlabDoubleBed",
-      "price": 288
+      "price": -10
     },
     {
       "abr": "piqueàcrâne",
@@ -2836,61 +2818,61 @@
       "abr": "dallemorbide(moyenne)",
       "category": "Meubles",
       "defname": "MorbidSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "dallemorbide(grande)",
       "category": "Meubles",
       "defname": "MorbidSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "dalletotémique(moyenne)",
       "category": "Meubles",
       "defname": "TotemicSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "dalletotémique(grande)",
       "category": "Meubles",
       "defname": "TotemicSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "étoileausol(grande)",
       "category": "Meubles",
       "defname": "SpikecoreFloorStar_Medium",
-      "price": 323
+      "price": -10
     },
     {
       "abr": "étoileausol(moyenne)",
       "category": "Meubles",
       "defname": "SpikecoreFloorStar_Broad",
-      "price": 483
+      "price": -10
     },
     {
       "abr": "tapisrustique(moyen)",
       "category": "Meubles",
       "defname": "RusticRug_Medium",
-      "price": 256
+      "price": -10
     },
     {
       "abr": "tapisrustique(grand)",
       "category": "Meubles",
       "defname": "RusticRug_Broad",
-      "price": 383
+      "price": -10
     },
     {
       "abr": "dalleanimaliste(moyenne)",
       "category": "Meubles",
       "defname": "AnimalistSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "dalleanimaliste(grande)",
       "category": "Meubles",
       "defname": "AnimalistSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "calice",
@@ -2962,43 +2944,43 @@
       "abr": "mécalien",
       "category": "Mechtech",
       "defname": "Mechlink",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "sous-lien(standard)",
       "category": "Mechtech",
       "defname": "ControlSublink",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "sous-lien(élevé)",
       "category": "Mechtech",
       "defname": "ControlSublinkHigh",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "réparateuràdistance",
       "category": "Mechtech",
       "defname": "RemoteRepairer",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "processeurdegestationmech",
       "category": "Mechtech",
       "defname": "MechFormfeeder",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "bouclieràdistance",
       "category": "Mechtech",
       "defname": "RemoteShielder",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "sondederéparation",
       "category": "Mechtech",
       "defname": "RepairProbe",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "cercueilmédicalisé",
@@ -3040,37 +3022,37 @@
       "abr": "coffreàjouets",
       "category": "Meubles",
       "defname": "ToyBox",
-      "price": 274
+      "price": -10
     },
     {
       "abr": "bureau",
       "category": "Meubles",
       "defname": "SchoolDesk",
-      "price": 104
+      "price": -10
     },
     {
       "abr": "décorationpourbébé",
       "category": "Meubles",
       "defname": "BabyDecoration",
-      "price": 205
+      "price": -10
     },
     {
       "abr": "berceau",
       "category": "Meubles",
       "defname": "Crib",
-      "price": 86
+      "price": -10
     },
     {
       "abr": "tableaunoir",
       "category": "Meubles",
       "defname": "Blackboard",
-      "price": 56
+      "price": -10
     },
     {
       "abr": "banquedegènes",
       "category": "Production",
       "defname": "GeneBank",
-      "price": -10
+      "price": 242
     },
     {
       "abr": "pompeàpollution",
@@ -3094,13 +3076,13 @@
       "abr": "piègetoximprovisé",
       "category": "Sécurité",
       "defname": "TrapIED_ToxGas",
-      "price": -10
+      "price": 192
     },
     {
       "abr": "encodeurdesous-noyau",
       "category": "Production",
       "defname": "SubcoreEncoder",
-      "price": -10
+      "price": 525
     },
     {
       "abr": "nourriturepourbébés",
@@ -3124,37 +3106,37 @@
       "abr": "sous-noyaudebase",
       "category": "Produits manufacturés",
       "defname": "SubcoreBasic",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "sous-noyaustandard",
       "category": "Produits manufacturés",
       "defname": "SubcoreRegular",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "sous-noyausupérieur",
       "category": "Produits manufacturés",
       "defname": "SubcoreHigh",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "pucedesignal",
       "category": "Produits manufacturés",
       "defname": "SignalChip",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "pucedefocalisation",
       "category": "Produits manufacturés",
       "defname": "PowerfocusChip",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "nanopucestructurante",
       "category": "Produits manufacturés",
       "defname": "NanostructuringChip",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "sérumdureposdelamort",
@@ -3353,246 +3335,6 @@
       "category": "Animaux",
       "defname": "Toxalope",
       "price": 583
-    },
-    {
-      "abr": "mieldecubee",
-      "category": "Produits animaliers",
-      "defname": "NovaCube_CubeeHoney",
-      "price": -10
-    },
-    {
-      "abr": "œufdecubee(fécondé)",
-      "category": "Œufs (fécondés)",
-      "defname": "NovaCube_EggCubeeFertilized",
-      "price": -10
-    },
-    {
-      "abr": "cubee",
-      "category": "Animaux",
-      "defname": "Novacube_Cubee",
-      "price": 500
-    },
-    {
-      "abr": "ancienlit",
-      "category": "Meubles",
-      "defname": "VFEA_AncientBed",
-      "price": 147
-    },
-    {
-      "abr": "lampemurale",
-      "category": "Meubles",
-      "defname": "VFEA_WallLamp",
-      "price": 65
-    },
-    {
-      "abr": "anciencryo-sommeilsuspendu",
-      "category": "Meubles",
-      "defname": "VFEA_AncientCryptosleepSuspender",
-      "price": 733
-    },
-    {
-      "abr": "capsuled'adaptationgénétique",
-      "category": "Divers",
-      "defname": "VFEA_GeneTailoringPod",
-      "price": -10
-    },
-    {
-      "abr": "pomped'injectionsuper-nanite",
-      "category": "Divers",
-      "defname": "VFEA_SuperNaniteInjectorPump",
-      "price": -10
-    },
-    {
-      "abr": "dialyseursuper-nanite",
-      "category": "Divers",
-      "defname": "VFEA_SuperNaniteDialyzer",
-      "price": -10
-    },
-    {
-      "abr": "centrifugeusesuper-nanite",
-      "category": "Divers",
-      "defname": "VFEA_SuperNaniteCentrifuge",
-      "price": -10
-    },
-    {
-      "abr": "lecteurdesimulation",
-      "category": "Divers",
-      "defname": "VFEA_SimulationDrive",
-      "price": -10
-    },
-    {
-      "abr": "stabilisateurdugénome",
-      "category": "Divers",
-      "defname": "VFEA_GenomeStabilizer",
-      "price": -10
-    },
-    {
-      "abr": "confinementsuper-nanite",
-      "category": "Divers",
-      "defname": "VFEA_SuperNaniteContainment",
-      "price": -10
-    },
-    {
-      "abr": "macrothermomètredugénome",
-      "category": "Divers",
-      "defname": "VFEA_GenomeMacrothermometer",
-      "price": -10
-    },
-    {
-      "abr": "inducteurdemucusstabilisé",
-      "category": "Divers",
-      "defname": "VFEA_StabilisedMucusInducer",
-      "price": -10
-    },
-    {
-      "abr": "rétracteurnanotech",
-      "category": "Divers",
-      "defname": "VFEA_NanotechRetractor",
-      "price": -10
-    },
-    {
-      "abr": "échantillonneurdenanite",
-      "category": "Divers",
-      "defname": "VFEA_NaniteSampler",
-      "price": -10
-    },
-    {
-      "abr": "ancienéducateur",
-      "category": "Meubles",
-      "defname": "VFEA_AncientEducator",
-      "price": 260
-    },
-    {
-      "abr": "ancienbaby-foot",
-      "category": "Meubles",
-      "defname": "VFEA_AncientFoosballTable",
-      "price": 375
-    },
-    {
-      "abr": "ancienmoniteurdesignesvitaux",
-      "category": "Divers",
-      "defname": "VFEA_AncientVitalsMonitor",
-      "price": -10
-    },
-    {
-      "abr": "ancienpanneausolaire",
-      "category": "Énergie",
-      "defname": "VFEA_AncientSolarGenerator",
-      "price": -10
-    },
-    {
-      "abr": "anciengroupeélectrogène",
-      "category": "Énergie",
-      "defname": "VFEA_AncientChemfuelPoweredGenerator",
-      "price": -10
-    },
-    {
-      "abr": "anciengénérateurgéothermique",
-      "category": "Énergie",
-      "defname": "VFEA_AncientGeothermalPlant",
-      "price": -10
-    },
-    {
-      "abr": "anciennebatterie",
-      "category": "Énergie",
-      "defname": "VFEA_AncientBattery",
-      "price": -10
-    },
-    {
-      "abr": "ancienréservoiràbio-batterie",
-      "category": "Énergie",
-      "defname": "VFEA_AncientBioBatteryTank",
-      "price": -10
-    },
-    {
-      "abr": "établideréparationélectrique",
-      "category": "Production",
-      "defname": "VFEA_ElectricMendingStation",
-      "price": -10
-    },
-    {
-      "abr": "établideréparationàcombustible",
-      "category": "Production",
-      "defname": "VFEA_FueledMendingStation",
-      "price": -10
-    },
-    {
-      "abr": "anciennefermehydroponique",
-      "category": "Production",
-      "defname": "VFEA_AncientHydroponicFarm",
-      "price": -10
-    },
-    {
-      "abr": "anciennecuisinière",
-      "category": "Production",
-      "defname": "VFEA_AncientCookingStation",
-      "price": -10
-    },
-    {
-      "abr": "ancienatelier",
-      "category": "Production",
-      "defname": "VFEA_AncientWorkshop",
-      "price": -10
-    },
-    {
-      "abr": "anciennetourelledesécurité",
-      "category": "Sécurité",
-      "defname": "VFEA_Turret_AncientSecurityTurret",
-      "price": -10
-    },
-    {
-      "abr": "anciennetourellededéfense",
-      "category": "Sécurité",
-      "defname": "VFEA_Turret_AncientPointDefense",
-      "price": -10
-    },
-    {
-      "abr": "ancienchauffage",
-      "category": "Température",
-      "defname": "VFEA_AncientHeater",
-      "price": -10
-    },
-    {
-      "abr": "ancienrefroidisseur",
-      "category": "Température",
-      "defname": "VFEA_AncientCooler",
-      "price": -10
-    },
-    {
-      "abr": "super-nanites",
-      "category": "Objets",
-      "defname": "VFEA_SuperNanites",
-      "price": -10
-    },
-    {
-      "abr": "ancientsculptor",
-      "category": "Production",
-      "defname": "VFEA_VT_AncientSculptor",
-      "price": -10
-    },
-    {
-      "abr": "ancientsmeltstation",
-      "category": "Production",
-      "defname": "VFEA_VT_AncientSmeltStation",
-      "price": -10
-    },
-    {
-      "abr": "ancientmanufacturerchip",
-      "category": "Produits manufacturés",
-      "defname": "VFEA_VT_AncientProductionCore",
-      "price": -10
-    },
-    {
-      "abr": "ancientsecuritychip",
-      "category": "Produits manufacturés",
-      "defname": "VFEA_VT_AncientDefenseCore",
-      "price": -10
-    },
-    {
-      "abr": "ancientpowerchip",
-      "category": "Produits manufacturés",
-      "defname": "VFEA_VT_AncientPowerCore",
-      "price": -10
     },
     {
       "abr": "vianded'ours",
@@ -4000,175 +3742,175 @@
       "abr": "entraîneurpsychique(inhibitiondeladouleur)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_Painblock",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(étourdissement)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_Stun",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(fardeau)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_Burden",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(impulsionaveuglante)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_BlindingPulse",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(décharged'échauffementneuronal)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_EntropyDump",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(attractiondecible)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_Beckon",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(ondedéstabilisante)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VertigoPulse",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(sautchaotique)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_ChaosSkip",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(téléportation)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_Skip",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(murdeterre)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_Wallraise",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(écrandefumée)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_Smokepop",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(concentration)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_Focus",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(foufurieux)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_Berserk",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(invisibilité)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_Invisibility",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(impulsiondefoliefurieuse)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_BerserkPulse",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(impulsiondechasseàl'homme)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_ManhunterPulse",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(téléportationdisparatedemasse)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_MassChaosSkip",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(arrosagemassif)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_Waterskip",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(tempêted'éclairs)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_Flashstorm",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(bouclierdeprotection)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_BulletShield",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(troud'épinglesolaire)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_SolarPinhole",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(motdeconfiance)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_WordOfTrust",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(motdejoie)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_WordOfJoy",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(motd'amour)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_WordOfLove",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(motdesérénité)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_WordOfSerenity",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(motd'inspiration)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_WordOfInspiration",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(transportlointain)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_Farskip",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(tremblementpsychique)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_Neuroquake",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(sautdeblocs)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_Chunkskip",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "neuro-entraîneur(tir)",
@@ -4243,11 +3985,89 @@
       "price": 1250
     },
     {
+      "abr": "cassowaryegg(unfert.)",
+      "category": "Œufs (non fécondés)",
+      "defname": "EggCassowaryUnfertilized",
+      "price": -10
+    },
+    {
+      "abr": "cobraegg(unfert.)",
+      "category": "Œufs (non fécondés)",
+      "defname": "EggCobraUnfertilized",
+      "price": -10
+    },
+    {
+      "abr": "concentrateurlaser",
+      "category": "Armes à distance",
+      "defname": "Gun_BeamGraser",
+      "price": 282
+    },
+    {
+      "abr": "emuegg(unfert.)",
+      "category": "Œufs (non fécondés)",
+      "defname": "EggEmuUnfertilized",
+      "price": -10
+    },
+    {
+      "abr": "fueledgunsmithstation",
+      "category": "Production",
+      "defname": "MW_GunsmithStationFueled",
+      "price": 500
+    },
+    {
+      "abr": "gunsmithstation",
+      "category": "Production",
+      "defname": "MW_GunsmithStation",
+      "price": 583
+    },
+    {
+      "abr": "iguanaegg(unfert.)",
+      "category": "Œufs (non fécondés)",
+      "defname": "EggIguanaUnfertilized",
+      "price": -10
+    },
+    {
+      "abr": "modularassaultcarbine",
+      "category": "Armes à distance",
+      "defname": "MW2_AssaultCarbine",
+      "price": 800
+    },
+    {
+      "abr": "modularbattlerifle",
+      "category": "Armes à distance",
+      "defname": "MW2_BattleRifle",
+      "price": 708
+    },
+    {
+      "abr": "modularhuntingrifle",
+      "category": "Armes à distance",
+      "defname": "MW2_HuntingRifle",
+      "price": 425
+    },
+    {
+      "abr": "ostrichegg(unfert.)",
+      "category": "Œufs (non fécondés)",
+      "defname": "EggOstrichUnfertilized",
+      "price": -10
+    },
+    {
+      "abr": "tortoiseegg(unfert.)",
+      "category": "Œufs (non fécondés)",
+      "defname": "EggTortoiseUnfertilized",
+      "price": -10
+    },
+    {
+      "abr": "turkeyegg(unfert.)",
+      "category": "Œufs (non fécondés)",
+      "defname": "EggTurkeyUnfertilized",
+      "price": -10
+    },
+    {
       "abr": "zombrella",
       "category": "Divers",
       "defname": "Zombrella",
       "price": -10
     }
   ],
-  "total": 708
+  "total": 678
 }
