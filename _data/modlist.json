@@ -6,6 +6,36 @@
     "version": "2.3.4.0"
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
+  },
+  {
+    "author": "Cosmo Corban",
+    "name": "AI Upscaled Textures - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "4.1.3.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "gregorycurrie",
+    "name": "Animal Genetics (Continued)",
+    "steamId": "2830943477",
+    "version": "1.6.1"
+  },
+  {
     "author": "marcin212",
     "name": "Architect Icons",
     "steamId": "1195427067",
@@ -18,10 +48,70 @@
     "version": null
   },
   {
+    "author": "Ben",
+    "name": "Automatic Night Owl",
+    "steamId": "2056012179",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "RedMattis",
+    "name": "Better Gene Inheritance",
+    "steamId": "3046776238",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": "935982361",
+    "version": "1.6.1.2+cf8a74bf12050dbef21f0288d0b8859f1989a6ca"
+  },
+  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.6.1.0"
+    "version": "1.6.3.3"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Reel",
+    "name": "Reel's Facial Animation Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sunshiney Days",
+    "name": "Adjustments for Reel's Facial Animation Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oracle of Thessia",
+    "name": "Vanilla Textures Expanded - [NL] Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sunshiney Days",
+    "name": "More and Retextured Head Shapes for VTE for Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SunshineyDays",
+    "name": "Genetic Heads Framework for [NL] Facial Animation",
+    "steamId": "3498759997",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SunshineyDays",
+    "name": "Biotech Genetic Heads for Facial Animation",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "tiagocc0",
@@ -54,16 +144,52 @@
     "version": "1.2.7365"
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0+b6d6595b7457219357c25e8cef1082652454b7f7"
+  },
+  {
+    "author": "CADMonkey",
+    "name": "Fishing Work Type",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gerrymon",
+    "name": "Gerrymon's Upscaled Vanilla Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "AUTOMATIC",
     "name": "Gradient Hair",
     "steamId": "1687053679",
     "version": "1.0.350.0854"
   },
   {
+    "author": "Si-Cafe",
+    "name": "Graphic Chair Overhaul 2",
+    "steamId": "2982680251",
+    "version": "1.12.9325.31714"
+  },
+  {
+    "author": "Linnun",
+    "name": "Keep Converting",
+    "steamId": "3461478214",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "krafs",
+    "name": "Level Up!",
+    "steamId": "1701592470",
+    "version": "1.0.0+43e5ebe4c2698f91cea25391238c33497f978c57"
+  },
+  {
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.18+6dfbf8b6dfba1c7b28334b0cd0257d2c7600cfa3"
+    "version": "1.12.22+4336584678fcfe9f7f1985e828d72bfe11813566"
   },
   {
     "author": "Superniquito",
@@ -72,28 +198,58 @@
     "version": null
   },
   {
-    "author": "kaitorisenkou",
-    "name": "ModularWeapons 2",
-    "steamId": "3497834944",
-    "version": "1.2.0.0"
+    "author": "Si-Cafe",
+    "name": "Not Overhead Meal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Savousepate, Soullivaneuh et JoeDoX",
+    "name": "Novacube Cubee",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.16.0.0"
+    "version": "1.17.3+5a57bbf4c67f4603d63aba5dc402f64deef6b94a"
   },
   {
-    "author": " Original author: Captain Muscles (Nathan Harbour)\n    Since this fork: Arodoid\n    ",
-    "name": "Semi Random Research: Progression Fork",
-    "steamId": "3505290557",
+    "author": "aRandomKiwi",
+    "name": "RimSaves",
+    "steamId": "1713367505",
+    "version": "2024.0.1.27"
+  },
+  {
+    "author": "Rooboid",
+    "name": "Roo's Birthmarks and Blemishes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Save Thing As Image",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Self Dyeing",
+    "steamId": "2562859859",
     "version": "1.0.0.0"
   },
   {
     "author": "Si-Cafe",
     "name": "Sense Of Depth For Tall Buildings",
     "steamId": "3246956515",
-    "version": "1.0.15.10471"
+    "version": "1.0.15.39046"
+  },
+  {
+    "author": "Raccoon Cuddler",
+    "name": "Show Hair Under Stuff",
+    "steamId": "3255379190",
+    "version": "1.0.0"
   },
   {
     "author": "ray1203",
@@ -102,22 +258,34 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Owlchemist",
-    "name": "Smart Farming",
-    "steamId": "3220129183",
-    "version": "1.6"
-  },
-  {
     "author": "Sarg",
     "name": "Smart Speed",
     "steamId": "1504723424",
     "version": "1.0.0.0"
   },
   {
+    "author": "Azzkiy",
+    "name": "Stats",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.6.0-RC1+38a1afff462be37643029c36d14ea73ac3f17859"
   },
   {
     "author": "the_heye",
@@ -132,51 +300,63 @@
     "version": null
   },
   {
-    "author": "JI_Won",
-    "name": "Won hair_men",
+    "author": "Oskar Potocki et XeoNovaDan",
+    "name": "Vanilla Hair Expanded",
+    "steamId": "1888705256",
+    "version": "1.0.3"
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
     "steamId": null,
     "version": null
   },
   {
-    "author": "JI_Won",
-    "name": "Won hair_women ",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Andromeda",
-    "name": "Stack gap",
-    "steamId": "3071298014",
+    "author": "YAYO et Soky",
+    "name": "Yayo's Animation (Continued)",
+    "steamId": "2877292196",
     "version": "1.0.0.0"
   },
   {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
+    "author": "Nera",
+    "name": "[BT] SpawnThoseGenes!",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Andromeda",
-    "name": "Useful Marks",
-    "steamId": "3506573327",
+    "author": "OPERATOR",
+    "name": "[BT] EyeGenes2 | Base - [NL] Facial Animation |",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Crimson",
+    "name": "[CF] Odyssey Upscaled 4x",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Custom Portraits",
+    "steamId": "1569605867",
     "version": "1.0.0.0"
   },
   {
-    "author": "Neronix17",
-    "name": "Won Hair Men Retextured",
+    "author": "Soul, Phaneron et Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
+  },
+  {
+    "author": "seobongzu",
+    "name": "[sbz] Neat Storage",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Neronix17",
-    "name": "Won Hair Women Retextured",
+    "author": "seobongzu",
+    "name": "[sbz] Vanilla Stuff Colors",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+38a1afff462be37643029c36d14ea73ac3f17859"
   }
 ]
