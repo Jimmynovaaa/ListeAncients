@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.4.0"
+    "version": "2.3.5.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -12,16 +12,34 @@
     "version": "12.0.0"
   },
   {
-    "author": "Cosmo Corban",
-    "name": "AI Upscaled Textures - Core",
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "4.1.4.0"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Reel",
+    "name": "Reel's Facial Animation Textures",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Achtung!",
-    "steamId": "730936602",
-    "version": "4.1.3.0"
+    "author": "Sunshiney Days",
+    "name": "Adjustments for Reel's Facial Animation Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nina.Goblin",
+    "name": "Allies are Helpful",
+    "steamId": "3534920369",
+    "version": "1.0.0.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -63,31 +81,13 @@
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": "935982361",
-    "version": "1.6.1.2+cf8a74bf12050dbef21f0288d0b8859f1989a6ca"
+    "version": "1.6.1.3+e339a5ca077cefe8005be09579a729a812fe01c7"
   },
   {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
     "version": "1.6.3.3"
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - WIP",
-    "steamId": "1635901197",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Reel",
-    "name": "Reel's Facial Animation Textures",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sunshiney Days",
-    "name": "Adjustments for Reel's Facial Animation Textures",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oracle of Thessia",
@@ -150,10 +150,22 @@
     "version": "1.0.0+b6d6595b7457219357c25e8cef1082652454b7f7"
   },
   {
+    "author": "JalapenoLabs",
+    "name": "Fishing Is Fun",
+    "steamId": "3541736220",
+    "version": "0.1.0.0+1fbc4b947af5a97d11be192018f261b40d27ff75"
+  },
+  {
     "author": "CADMonkey",
     "name": "Fishing Work Type",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.7.10+a697e05eae98b48aa1504eddffa1f623df4add7d"
   },
   {
     "author": "Gerrymon",
@@ -174,6 +186,12 @@
     "version": "1.12.9325.31714"
   },
   {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
     "author": "Linnun",
     "name": "Keep Converting",
     "steamId": "3461478214",
@@ -183,7 +201,7 @@
     "author": "krafs",
     "name": "Level Up!",
     "steamId": "1701592470",
-    "version": "1.0.0+43e5ebe4c2698f91cea25391238c33497f978c57"
+    "version": "1.0.0+c5d2778abbeb0e954cdcbdc7eeb3901bf9e86b8b"
   },
   {
     "author": "m00nl1ght",
@@ -194,6 +212,12 @@
   {
     "author": "Superniquito",
     "name": "Mod Options Sort",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rhadamant",
+    "name": "No Time Change Sounds",
     "steamId": null,
     "version": null
   },
@@ -210,10 +234,34 @@
     "version": null
   },
   {
+    "author": "Mehni",
+    "name": "Numbers (1.6 Temp)",
+    "steamId": "3513829896",
+    "version": "1.0.0+a6637110a822df954a40d53efaf21b6900453851"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+9bf3e3d10192ecb6019097968fdd99072e45e1ea"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "3512466087",
+    "version": "1.0.17"
+  },
+  {
+    "author": "mastertea",
+    "name": "RandomPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.17.3+5a57bbf4c67f4603d63aba5dc402f64deef6b94a"
+    "version": "1.17.4+b09e96041e317120e699b719d9171a1e2452b2fe"
   },
   {
     "author": "aRandomKiwi",
@@ -288,6 +336,12 @@
     "version": "7.0.6.0-RC1+38a1afff462be37643029c36d14ea73ac3f17859"
   },
   {
+    "author": "TimmyLiang",
+    "name": "TradeHelper",
+    "steamId": "2113372560",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "the_heye",
     "name": "Twitch Chat",
     "steamId": "2075845400",
@@ -300,10 +354,94 @@
     "version": null
   },
   {
+    "author": "asmallrabbit",
+    "name": "Uniform Growing Zone Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Cosmo Corban",
+    "name": "AI Upscaled Textures - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Vanilla Beards Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Soul, Phaneron et Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson et Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Helixien et Sarg",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Joedox",
+    "name": "Vanilla Events Expanded [Fr]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi, Sarg et Sokyran",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": "1718190143",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 et ISOREX",
+    "name": "Vanilla Furniture Expanded - Architect",
+    "steamId": "2608762624",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki et Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Art",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, dninemfive, Kikohi et Sarg",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": "1957158779",
+    "version": "1.0.1.0"
+  },
+  {
     "author": "Oskar Potocki et XeoNovaDan",
     "name": "Vanilla Hair Expanded",
     "steamId": "1888705256",
     "version": "1.0.3"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Vanilla Hair Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Vanilla Pawns Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Weapon Proficiency",
+    "steamId": "3523531768",
+    "version": "1.0.0.0"
   },
   {
     "author": "bodlosh",
@@ -342,12 +480,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Soul, Phaneron et Bradson",
-    "name": "Adaptive Storage Framework",
-    "steamId": "3033901359",
-    "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
-  },
-  {
     "author": "seobongzu",
     "name": "[sbz] Neat Storage",
     "steamId": null,
@@ -356,6 +488,12 @@
   {
     "author": "seobongzu",
     "name": "[sbz] Vanilla Stuff Colors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seobongzu",
+    "name": "[sbz] Workbench Shelf",
     "steamId": null,
     "version": null
   }
